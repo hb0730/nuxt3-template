@@ -6,6 +6,9 @@
     "group:allNonMajor",
     "npm:unpublishSafe"
   ],
+  "baseBranches": [
+    "*"
+  ],
   "labels": ["renovate"],
   "rangeStrategy": "bump",
   "packageRules": [
