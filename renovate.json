@@ -8,7 +8,7 @@
   ],
   "baseBranches": [
     "main",
-    "nuxt3-\\/*$"
+    "*"
   ],
   "labels": ["renovate"],
   "rangeStrategy": "bump",
