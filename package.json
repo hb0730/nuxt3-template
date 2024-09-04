@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-app",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint --flag unstable_ts_config",
+    "lint:fix": "eslint --flag unstable_ts_config --fix"
+  },
+  "dependencies": {
+    "nuxt": "^3.13.0",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.2.0",
+    "@unocss/nuxt": "^0.62.3",
+    "eslint": "^9.9.1",
+    "eslint-plugin-format": "^0.1.2",
+    "unocss": "^0.62.3",
+    "vite-plugin-remove-console": "^2.2.0"
+  },
+  "volta": {
+    "node": "20.17.0",
+    "pnpm": "9.9.0"
+  }
+}
