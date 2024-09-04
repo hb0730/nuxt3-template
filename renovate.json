@@ -7,8 +7,8 @@
     "npm:unpublishSafe"
   ],
   "baseBranches": [
-    "main", // Default branch
-    "nuxt3-\\/*$" // Match any branch starting with nuxt3-
+    "main",
+    "nuxt3-\\/*$"
   ],
   "labels": ["renovate"],
   "rangeStrategy": "bump",
