@@ -12,15 +12,15 @@
     "lint:fix": "eslint --flag unstable_ts_config --fix"
   },
   "dependencies": {
-    "nuxt": "^3.13.1",
+    "nuxt": "^3.13.2",
     "vue": "latest"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^3.6.0",
-    "@unocss/nuxt": "^0.62.3",
+    "@antfu/eslint-config": "^3.6.2",
+    "@unocss/nuxt": "^0.62.4",
     "eslint": "^9.10.0",
     "eslint-plugin-format": "^0.1.2",
-    "unocss": "^0.62.3",
+    "unocss": "^0.62.4",
     "vite-plugin-remove-console": "^2.2.0"
   },
   "volta": {
