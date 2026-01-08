@@ -16,7 +16,7 @@
     "vue": "latest"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^3.16.0",
+    "@antfu/eslint-config": "^6.7.3",
     "@unocss/nuxt": "^0.65.4",
     "eslint": "^9.39.2",
     "eslint-plugin-format": "^0.1.3",
